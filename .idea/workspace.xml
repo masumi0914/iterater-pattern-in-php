@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d52c040-a96e-44e4-9ee4-63e533d4b18b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="22iYCcgP3KhYzssbbvsSOlrkqKJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kawada\PhpstormProjects\php-design-pattern\php-design-patterns-iterator\backend\App\User\Aggregates" />
+      <recent name="C:\Users\kawada\PhpstormProjects\php-design-pattern\php-design-patterns-iterator\backend\App\User\Iterators" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kawada\PhpstormProjects\php-design-pattern\php-design-patterns-iterator\backend\App\User\Iterators\Interfaces" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="docker-compose.yml.web: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="web" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.web: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d52c040-a96e-44e4-9ee4-63e533d4b18b" name="Default Changelist" comment="" />
+      <created>1640321747427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640321747427</updated>
+      <workItem from="1640321749275" duration="157000" />
+      <workItem from="1640321926189" duration="356000" />
+      <workItem from="1640322372359" duration="2430000" />
+      <workItem from="1640324812505" duration="660000" />
+      <workItem from="1640325490961" duration="382000" />
+      <workItem from="1640325880015" duration="980000" />
+      <workItem from="1640326870063" duration="918000" />
+      <workItem from="1640328247689" duration="148000" />
+      <workItem from="1640328404048" duration="3119000" />
+      <workItem from="1640331820104" duration="1722000" />
+      <workItem from="1640333607820" duration="1857000" />
+      <workItem from="1640526661735" duration="1053000" />
+      <workItem from="1640527745663" duration="1846000" />
+      <workItem from="1640574871745" duration="5697000" />
+      <workItem from="1640585836581" duration="4274000" />
+      <workItem from="1640594719406" duration="1210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1640580982611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1640580982611" />
+    <state x="2522" y="307" key="#docker-compose.yml.web:_Compose_Deployment" timestamp="1640333975524">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2522" y="307" key="#docker-compose.yml.web:_Compose_Deployment/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1640333975524" />
+    <state x="371" y="0" key="#php/Dockerfile" timestamp="1640324847501">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="0" key="#php/Dockerfile/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1640324847501" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1640590146366">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1640590146366" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1640528407377" />
+    <state x="276" y="72" width="728" height="536" key="find.popup" timestamp="1640589183881">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="276" y="72" width="728" height="536" key="find.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1640589183881" />
+    <state x="2334" y="110" width="1092" height="820" key="find.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1640333567201" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1640528035653">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1640528035653" />
+    <state x="297" y="-6" width="670" height="676" key="search.everywhere.popup" timestamp="1640581076061">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="-6" width="670" height="676" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1640581076061" />
+  </component>
+</project>
